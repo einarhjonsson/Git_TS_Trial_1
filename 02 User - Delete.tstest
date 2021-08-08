@@ -28,7 +28,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "92e7662a-93e0-4a3a-8e46-752167418c8f",
+            "Runtime ID": "97a5f301-779b-42dc-bbfc-50c7a37d1c74",
             "Description": "Navigate to : 'https://amiqaserver.com/'",
             "CustomDescription": null,
             "Step": {
@@ -64,7 +64,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "05.04 Usersee0jzvve.n4w",
+            "StepImageKey": "05.04.04 User - Deletenez2gyve.fs5",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -73,7 +73,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "76b98f01-d06b-4668-ab22-c6c9c20bc12a",
+            "Runtime ID": "6727fcd3-68ce-4d58-a708-3377f6cb6666",
             "Description": "Enter text 'A.QA.Account.Admin.1' in 'UsernameText'",
             "CustomDescription": null,
             "Step": {
@@ -205,7 +205,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "05.04 Usersry2wch3n.zie",
+            "StepImageKey": "05.04.04 User - Deletenztad122.or3",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -214,7 +214,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "438a1bbe-1993-4a9b-a08b-42005a857625",
+            "Runtime ID": "425d812a-3fac-4278-b532-f558106a1d8e",
             "Description": "Enter text 'Test!@34' in 'PasswordPassword'",
             "CustomDescription": null,
             "Step": {
@@ -346,7 +346,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "05.04 Usersc1iwa22z.jdj",
+            "StepImageKey": "05.04.04 User - Deletel1pibmmm.m4h",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -355,7 +355,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "4bf1af85-728e-48be-b031-7a31a403670b",
+            "Runtime ID": "9bbc85d7-9f9e-4e41-9460-421e72df93b3",
             "Description": "Click 'LoginSpan'",
             "CustomDescription": null,
             "Step": {
@@ -470,7 +470,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "05.04 Usersqwu4ycfx.grp",
+            "StepImageKey": "05.04.04 User - Deletetesughoe.rul",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -479,7 +479,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "f9b7744a-8643-4668-bcec-8992ea9b1ee2",
+            "Runtime ID": "c5ab1503-5a81-420e-914b-62fc8da679dc",
             "Description": "Click 'WelcomeSmallTag'",
             "CustomDescription": null,
             "Step": {
@@ -594,7 +594,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "05.04 Usersnj05fo2h.o5s",
+            "StepImageKey": "05.04.04 User - Deletec0c2s04k.dl3",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -603,7 +603,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "35f6a566-fc12-4c76-9f9a-88a18d00bfbe",
+            "Runtime ID": "8c81d49c-3f5e-47bc-8d85-d6429ceedd44",
             "Description": "Click 'UsersSpan'",
             "CustomDescription": null,
             "Step": {
@@ -718,7 +718,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "05.04 Userswlco1qmw.ihd",
+            "StepImageKey": "05.04.04 User - Delete4v0egyq0.ikz",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -727,8 +727,8 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "974611ee-60a2-47b1-9de6-b8669b50433c",
-            "Description": "Wait for Exists 'NewSpan'",
+            "Runtime ID": "bbff7ac6-89a8-49cb-8b39-9c09fd257a33",
+            "Description": "Wait for Exists 'x5425ListItem'",
             "CustomDescription": null,
             "Step": {
               "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ExistsVerificationDescriptor",
@@ -755,1073 +755,6 @@
                     "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
                     "__value": {
                       "Name": "target",
-                      "Region": null,
-                      "Page": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                        "__value": {
-                          "Path": "https://amiqaserver.com/mobile//templates/main_menu/users/users.aspx",
-                          "Query": "?MainTab=5",
-                          "BaseUrl": "",
-                          "EquivalentUrls": [],
-                          "Fragment": "",
-                          "Title": "Users",
-                          "CompareMode": 2,
-                          "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "Users"
-                        }
-                      },
-                      "Frame": null,
-                      "FindExpression": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
-                        "__value": {
-                          "uniqueKey": "sgRzbGPQjDY0Bd2HglviwwQeveM=",
-                          "NodeKind": 4,
-                          "TechnologyType": 1,
-                          "Name": "NewSpan",
-                          "FindExpressions": [
-                            {
-                              "Key": 1,
-                              "Value": {
-                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                "__value": {
-                                  "Clauses": [
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "TextContent=New"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "tagname=span"
-                                      }
-                                    }
-                                  ],
-                                  "Constraints": [],
-                                  "ChainStops": []
-                                }
-                              }
-                            }
-                          ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[2]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/div[3]/div[1]/button[4]/span[1]",
-                          "ImageSearchClauses": [
-                            {
-                              "__type": "ArtOfTest.Common.ImageSearchClause",
-                              "__value": {
-                                "Resolution": "2560, 1440",
-                                "BroweserType": 2,
-                                "Image": "7E7FCA395EEED3FB6257F0FFDE9BA049F775441952D90C38FED3AA296A1DDC56",
-                                "Index": 0,
-                                "MatchThreshold": 90,
-                                "OsVersion": "10.0.19041.0",
-                                "ScreenScale": 1.0,
-                                "ScrollOnImageSearch": null
-                              }
-                            }
-                          ],
-                          "DataBindingExpressions": {}
-                        }
-                      },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSpan",
-                      "IsIndependent": false,
-                      "DomStateKey": "",
-                      "TechnologyType": 1,
-                      "Version": 200
-                    }
-                  }
-                },
-                "StepType": 1,
-                "LogMessageOnFailure": "",
-                "EditorType": "",
-                "DataBindingExpressions": {}
-              }
-            },
-            "Enabled": true,
-            "Order": 7,
-            "Id": "",
-            "StepState": 0,
-            "ContinueOnFailure": false,
-            "StepImageKey": "05.04.01 User - Createsyaptwhv.avd",
-            "QcId": 0,
-            "QcVersionStamp": 0,
-            "Version": 200
-          }
-        },
-        {
-          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-          "__value": {
-            "Runtime ID": "93e227e9-308a-4235-9920-2c43e49f93ac",
-            "Description": "Click 'NewSpan'",
-            "CustomDescription": null,
-            "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
-              "__value": {
-                "SimulateRealClick": true,
-                "ScrollToVisibleType": 2,
-                "UsejQuery": false,
-                "ClosesBrowser": false,
-                "AjaxTimeout": 0,
-                "Pause": 0,
-                "WaitOnElementsTimeout": 30000,
-                "SearchByImageFirst": 0,
-                "UseStepWaitOnElementsTimout": false,
-                "WaitOnElements": true,
-                "RunsAgainstVersion": "",
-                "Constraints": {
-                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                  "__value": {
-                    "ConstraintValues": {}
-                  }
-                },
-                "Elements": {
-                  "target": {
-                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                    "__value": {
-                      "Name": "target",
-                      "Region": null,
-                      "Page": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                        "__value": {
-                          "Path": "https://amiqaserver.com/mobile//templates/main_menu/users/users.aspx",
-                          "Query": "?MainTab=5",
-                          "BaseUrl": "",
-                          "EquivalentUrls": [],
-                          "Fragment": "",
-                          "Title": "Users",
-                          "CompareMode": 2,
-                          "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "Users"
-                        }
-                      },
-                      "Frame": null,
-                      "FindExpression": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
-                        "__value": {
-                          "uniqueKey": "sgRzbGPQjDY0Bd2HglviwwQeveM=",
-                          "NodeKind": 4,
-                          "TechnologyType": 1,
-                          "Name": "NewSpan",
-                          "FindExpressions": [
-                            {
-                              "Key": 1,
-                              "Value": {
-                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                "__value": {
-                                  "Clauses": [
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "TextContent=New"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "tagname=span"
-                                      }
-                                    }
-                                  ],
-                                  "Constraints": [],
-                                  "ChainStops": []
-                                }
-                              }
-                            }
-                          ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[2]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/div[3]/div[1]/button[4]/span[1]",
-                          "ImageSearchClauses": [
-                            {
-                              "__type": "ArtOfTest.Common.ImageSearchClause",
-                              "__value": {
-                                "Resolution": "2560, 1440",
-                                "BroweserType": 2,
-                                "Image": "7E7FCA395EEED3FB6257F0FFDE9BA049F775441952D90C38FED3AA296A1DDC56",
-                                "Index": 0,
-                                "MatchThreshold": 90,
-                                "OsVersion": "10.0.19041.0",
-                                "ScreenScale": 1.0,
-                                "ScrollOnImageSearch": null
-                              }
-                            }
-                          ],
-                          "DataBindingExpressions": {}
-                        }
-                      },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSpan",
-                      "IsIndependent": false,
-                      "DomStateKey": "",
-                      "TechnologyType": 1,
-                      "Version": 200
-                    }
-                  }
-                },
-                "StepType": 4,
-                "LogMessageOnFailure": "",
-                "EditorType": "",
-                "DataBindingExpressions": {}
-              }
-            },
-            "Enabled": true,
-            "Order": 8,
-            "Id": "",
-            "StepState": 0,
-            "ContinueOnFailure": false,
-            "StepImageKey": "05.04 Usersy0pmsmux.pb3",
-            "QcId": 0,
-            "QcVersionStamp": 0,
-            "Version": 200
-          }
-        },
-        {
-          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-          "__value": {
-            "Runtime ID": "e81fa24a-0e69-448a-94ba-19a304058e3c",
-            "Description": "Enter text 'A.QA.User.2' in 'LoginNameText'",
-            "CustomDescription": null,
-            "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
-              "__value": {
-                "RawText": "A.QA.User.2",
-                "SimulateRealTyping": false,
-                "TypingSpeed": 50,
-                "KeyHoldTime": 100,
-                "IsPassword": false,
-                "TypingInfo": {
-                  "ElementText": "A",
-                  "TypedText": "A",
-                  "CaretPosition": 1,
-                  "IsTextArea": false,
-                  "IsBackSpace": false
-                },
-                "Encrypt": false,
-                "SupportUnicode": true,
-                "ScrollToVisibleType": 2,
-                "UsejQuery": false,
-                "ClosesBrowser": false,
-                "AjaxTimeout": 0,
-                "Pause": 0,
-                "WaitOnElementsTimeout": 30000,
-                "SearchByImageFirst": 0,
-                "UseStepWaitOnElementsTimout": false,
-                "WaitOnElements": true,
-                "RunsAgainstVersion": "",
-                "Constraints": {
-                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                  "__value": {
-                    "ConstraintValues": {}
-                  }
-                },
-                "Elements": {
-                  "textTarget": {
-                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                    "__value": {
-                      "Name": "textTarget",
-                      "Region": null,
-                      "Page": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                        "__value": {
-                          "Path": "https://amiqaserver.com/mobile//templates/main_menu/users/users.aspx",
-                          "Query": "?MainTab=5",
-                          "BaseUrl": "",
-                          "EquivalentUrls": [],
-                          "Fragment": "",
-                          "Title": "Users",
-                          "CompareMode": 2,
-                          "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "Users"
-                        }
-                      },
-                      "Frame": null,
-                      "FindExpression": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
-                        "__value": {
-                          "uniqueKey": "lsfCfWy7NCyx71OLAw7kjF/ZCBM=",
-                          "NodeKind": 4,
-                          "TechnologyType": 1,
-                          "Name": "LoginNameText",
-                          "FindExpressions": [
-                            {
-                              "Key": 1,
-                              "Value": {
-                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                "__value": {
-                                  "Clauses": [
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "id=LoginName"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "tagname=input"
-                                      }
-                                    }
-                                  ],
-                                  "Constraints": [],
-                                  "ChainStops": []
-                                }
-                              }
-                            }
-                          ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[2]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/div[4]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/input[1]",
-                          "ImageSearchClauses": [
-                            {
-                              "__type": "ArtOfTest.Common.ImageSearchClause",
-                              "__value": {
-                                "Resolution": "2560, 1440",
-                                "BroweserType": 2,
-                                "Image": "7782EDABA3A281F078075318E52CC6940EDA7CA90665F2F6C25DB42DE418CB5F",
-                                "Index": 3,
-                                "MatchThreshold": 90,
-                                "OsVersion": "10.0.19041.0",
-                                "ScreenScale": 1.0,
-                                "ScrollOnImageSearch": null
-                              }
-                            }
-                          ],
-                          "DataBindingExpressions": {}
-                        }
-                      },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputText",
-                      "IsIndependent": false,
-                      "DomStateKey": "",
-                      "TechnologyType": 1,
-                      "Version": 200
-                    }
-                  }
-                },
-                "StepType": 4,
-                "LogMessageOnFailure": "",
-                "EditorType": "",
-                "DataBindingExpressions": {},
-                "_canEncrypt": false,
-                "_cipher": null
-              }
-            },
-            "Enabled": true,
-            "Order": 9,
-            "Id": "",
-            "StepState": 0,
-            "ContinueOnFailure": false,
-            "StepImageKey": "05.04 Usersufcgzkqc.mf0",
-            "QcId": 0,
-            "QcVersionStamp": 0,
-            "Version": 200
-          }
-        },
-        {
-          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-          "__value": {
-            "Runtime ID": "9657954b-8b61-49c5-9436-18c597206a4e",
-            "Description": "Enter text 'Test' in 'FirstNameText'",
-            "CustomDescription": null,
-            "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
-              "__value": {
-                "RawText": "Test",
-                "SimulateRealTyping": false,
-                "TypingSpeed": 50,
-                "KeyHoldTime": 100,
-                "IsPassword": false,
-                "TypingInfo": {
-                  "ElementText": "Test",
-                  "TypedText": "test",
-                  "CaretPosition": 4,
-                  "IsTextArea": false,
-                  "IsBackSpace": false
-                },
-                "Encrypt": false,
-                "SupportUnicode": true,
-                "ScrollToVisibleType": 2,
-                "UsejQuery": false,
-                "ClosesBrowser": false,
-                "AjaxTimeout": 0,
-                "Pause": 0,
-                "WaitOnElementsTimeout": 30000,
-                "SearchByImageFirst": 0,
-                "UseStepWaitOnElementsTimout": false,
-                "WaitOnElements": true,
-                "RunsAgainstVersion": "",
-                "Constraints": {
-                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                  "__value": {
-                    "ConstraintValues": {}
-                  }
-                },
-                "Elements": {
-                  "textTarget": {
-                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                    "__value": {
-                      "Name": "textTarget",
-                      "Region": null,
-                      "Page": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                        "__value": {
-                          "Path": "https://amiqaserver.com/mobile//templates/main_menu/users/users.aspx",
-                          "Query": "?MainTab=5",
-                          "BaseUrl": "",
-                          "EquivalentUrls": [],
-                          "Fragment": "",
-                          "Title": "Users",
-                          "CompareMode": 2,
-                          "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "Users"
-                        }
-                      },
-                      "Frame": null,
-                      "FindExpression": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
-                        "__value": {
-                          "uniqueKey": "5kPF6SnuuGFgPmZBUM1wunuc0Uo=",
-                          "NodeKind": 4,
-                          "TechnologyType": 1,
-                          "Name": "FirstNameText",
-                          "FindExpressions": [
-                            {
-                              "Key": 1,
-                              "Value": {
-                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                "__value": {
-                                  "Clauses": [
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "id=FirstName"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "tagname=input"
-                                      }
-                                    }
-                                  ],
-                                  "Constraints": [],
-                                  "ChainStops": []
-                                }
-                              }
-                            }
-                          ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[2]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/div[4]/div[3]/div[1]/div[2]/div[1]/div[1]/div[6]/div[1]/input[1]",
-                          "ImageSearchClauses": [
-                            {
-                              "__type": "ArtOfTest.Common.ImageSearchClause",
-                              "__value": {
-                                "Resolution": "2560, 1440",
-                                "BroweserType": 2,
-                                "Image": "8F9782E73A086252943AEBFCC4DCB253FB08006CD3783779F6AC8CA2DEC2E96B",
-                                "Index": 0,
-                                "MatchThreshold": 90,
-                                "OsVersion": "10.0.19041.0",
-                                "ScreenScale": 1.0,
-                                "ScrollOnImageSearch": null
-                              }
-                            }
-                          ],
-                          "DataBindingExpressions": {}
-                        }
-                      },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputText",
-                      "IsIndependent": false,
-                      "DomStateKey": "",
-                      "TechnologyType": 1,
-                      "Version": 200
-                    }
-                  }
-                },
-                "StepType": 4,
-                "LogMessageOnFailure": "",
-                "EditorType": "",
-                "DataBindingExpressions": {},
-                "_canEncrypt": false,
-                "_cipher": null
-              }
-            },
-            "Enabled": true,
-            "Order": 10,
-            "Id": "",
-            "StepState": 0,
-            "ContinueOnFailure": false,
-            "StepImageKey": "05.04 Userscl2kvwt3.3rl",
-            "QcId": 0,
-            "QcVersionStamp": 0,
-            "Version": 200
-          }
-        },
-        {
-          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-          "__value": {
-            "Runtime ID": "7c4ae818-8844-4571-a617-7b9739221507",
-            "Description": "Enter text 'User.2' in 'LastNameText'",
-            "CustomDescription": null,
-            "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
-              "__value": {
-                "RawText": "User.2",
-                "SimulateRealTyping": false,
-                "TypingSpeed": 50,
-                "KeyHoldTime": 100,
-                "IsPassword": false,
-                "TypingInfo": {
-                  "ElementText": "User.",
-                  "TypedText": "user.",
-                  "CaretPosition": 5,
-                  "IsTextArea": false,
-                  "IsBackSpace": false
-                },
-                "Encrypt": false,
-                "SupportUnicode": true,
-                "ScrollToVisibleType": 2,
-                "UsejQuery": false,
-                "ClosesBrowser": false,
-                "AjaxTimeout": 0,
-                "Pause": 0,
-                "WaitOnElementsTimeout": 30000,
-                "SearchByImageFirst": 0,
-                "UseStepWaitOnElementsTimout": false,
-                "WaitOnElements": true,
-                "RunsAgainstVersion": "",
-                "Constraints": {
-                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                  "__value": {
-                    "ConstraintValues": {}
-                  }
-                },
-                "Elements": {
-                  "textTarget": {
-                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                    "__value": {
-                      "Name": "textTarget",
-                      "Region": null,
-                      "Page": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                        "__value": {
-                          "Path": "https://amiqaserver.com/mobile//templates/main_menu/users/users.aspx",
-                          "Query": "?MainTab=5",
-                          "BaseUrl": "",
-                          "EquivalentUrls": [],
-                          "Fragment": "",
-                          "Title": "Users",
-                          "CompareMode": 2,
-                          "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "Users"
-                        }
-                      },
-                      "Frame": null,
-                      "FindExpression": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
-                        "__value": {
-                          "uniqueKey": "w+NsH5KGOg8o+v0hXkVM09PMfCs=",
-                          "NodeKind": 4,
-                          "TechnologyType": 1,
-                          "Name": "LastNameText",
-                          "FindExpressions": [
-                            {
-                              "Key": 1,
-                              "Value": {
-                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                "__value": {
-                                  "Clauses": [
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "id=LastName"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "tagname=input"
-                                      }
-                                    }
-                                  ],
-                                  "Constraints": [],
-                                  "ChainStops": []
-                                }
-                              }
-                            }
-                          ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[2]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/div[4]/div[3]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/input[1]",
-                          "ImageSearchClauses": [
-                            {
-                              "__type": "ArtOfTest.Common.ImageSearchClause",
-                              "__value": {
-                                "Resolution": "2560, 1440",
-                                "BroweserType": 2,
-                                "Image": "90B95F989650C108FB0D8F1EB53C7DB8A9F96335AEA1FAC9E6E33AC92AC58B05",
-                                "Index": 0,
-                                "MatchThreshold": 90,
-                                "OsVersion": "10.0.19041.0",
-                                "ScreenScale": 1.0,
-                                "ScrollOnImageSearch": null
-                              }
-                            }
-                          ],
-                          "DataBindingExpressions": {}
-                        }
-                      },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputText",
-                      "IsIndependent": false,
-                      "DomStateKey": "",
-                      "TechnologyType": 1,
-                      "Version": 200
-                    }
-                  }
-                },
-                "StepType": 4,
-                "LogMessageOnFailure": "",
-                "EditorType": "",
-                "DataBindingExpressions": {},
-                "_canEncrypt": false,
-                "_cipher": null
-              }
-            },
-            "Enabled": true,
-            "Order": 11,
-            "Id": "",
-            "StepState": 0,
-            "ContinueOnFailure": false,
-            "StepImageKey": "05.04 Userskau1jciy.ukz",
-            "QcId": 0,
-            "QcVersionStamp": 0,
-            "Version": 200
-          }
-        },
-        {
-          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-          "__value": {
-            "Runtime ID": "a78c2c0c-1211-4ee5-9ccc-3ab494b271ad",
-            "Description": "Enter text 'A.QA.User.2@amiglobal.com' in 'PrimaryEmailText'",
-            "CustomDescription": null,
-            "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
-              "__value": {
-                "RawText": "A.QA.User.2@amiglobal.com",
-                "SimulateRealTyping": false,
-                "TypingSpeed": 50,
-                "KeyHoldTime": 100,
-                "IsPassword": false,
-                "TypingInfo": {
-                  "ElementText": "e",
-                  "TypedText": "e",
-                  "CaretPosition": 1,
-                  "IsTextArea": false,
-                  "IsBackSpace": false
-                },
-                "Encrypt": false,
-                "SupportUnicode": true,
-                "ScrollToVisibleType": 2,
-                "UsejQuery": false,
-                "ClosesBrowser": false,
-                "AjaxTimeout": 0,
-                "Pause": 0,
-                "WaitOnElementsTimeout": 30000,
-                "SearchByImageFirst": 0,
-                "UseStepWaitOnElementsTimout": false,
-                "WaitOnElements": true,
-                "RunsAgainstVersion": "",
-                "Constraints": {
-                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                  "__value": {
-                    "ConstraintValues": {}
-                  }
-                },
-                "Elements": {
-                  "textTarget": {
-                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                    "__value": {
-                      "Name": "textTarget",
-                      "Region": null,
-                      "Page": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                        "__value": {
-                          "Path": "https://amiqaserver.com/mobile//templates/main_menu/users/users.aspx",
-                          "Query": "?MainTab=5",
-                          "BaseUrl": "",
-                          "EquivalentUrls": [],
-                          "Fragment": "",
-                          "Title": "Users",
-                          "CompareMode": 2,
-                          "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "Users"
-                        }
-                      },
-                      "Frame": null,
-                      "FindExpression": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
-                        "__value": {
-                          "uniqueKey": "z4X7H2xKNvTViG6uzaxY4QTjvYA=",
-                          "NodeKind": 4,
-                          "TechnologyType": 1,
-                          "Name": "PrimaryEmailText",
-                          "FindExpressions": [
-                            {
-                              "Key": 1,
-                              "Value": {
-                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                "__value": {
-                                  "Clauses": [
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "id=PrimaryEmail"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "tagname=input"
-                                      }
-                                    }
-                                  ],
-                                  "Constraints": [],
-                                  "ChainStops": []
-                                }
-                              }
-                            }
-                          ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[2]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/div[4]/div[3]/div[1]/div[2]/div[1]/div[1]/div[8]/div[1]/input[1]",
-                          "ImageSearchClauses": [
-                            {
-                              "__type": "ArtOfTest.Common.ImageSearchClause",
-                              "__value": {
-                                "Resolution": "2560, 1440",
-                                "BroweserType": 2,
-                                "Image": "D63106359989A261B1824B81ACA29F9C49EE94677BA2B538667ED14C7DAD1BE4",
-                                "Index": 0,
-                                "MatchThreshold": 90,
-                                "OsVersion": "10.0.19041.0",
-                                "ScreenScale": 1.0,
-                                "ScrollOnImageSearch": null
-                              }
-                            }
-                          ],
-                          "DataBindingExpressions": {}
-                        }
-                      },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputText",
-                      "IsIndependent": false,
-                      "DomStateKey": "",
-                      "TechnologyType": 1,
-                      "Version": 200
-                    }
-                  }
-                },
-                "StepType": 4,
-                "LogMessageOnFailure": "",
-                "EditorType": "",
-                "DataBindingExpressions": {},
-                "_canEncrypt": false,
-                "_cipher": null
-              }
-            },
-            "Enabled": true,
-            "Order": 12,
-            "Id": "",
-            "StepState": 0,
-            "ContinueOnFailure": false,
-            "StepImageKey": "05.04 Usersn2t5c1ps.3t0",
-            "QcId": 0,
-            "QcVersionStamp": 0,
-            "Version": 200
-          }
-        },
-        {
-          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-          "__value": {
-            "Runtime ID": "bb009513-680d-423c-9e95-6e0003550ae0",
-            "Description": "Enter text 'A.QA.Account.Admin.1@amiglobal.com' in 'SecondaryEmailText'",
-            "CustomDescription": null,
-            "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
-              "__value": {
-                "RawText": "A.QA.Account.Admin.1@amiglobal.com",
-                "SimulateRealTyping": false,
-                "TypingSpeed": 50,
-                "KeyHoldTime": 100,
-                "IsPassword": false,
-                "TypingInfo": {
-                  "ElementText": "e",
-                  "TypedText": "e",
-                  "CaretPosition": 1,
-                  "IsTextArea": false,
-                  "IsBackSpace": false
-                },
-                "Encrypt": false,
-                "SupportUnicode": true,
-                "ScrollToVisibleType": 2,
-                "UsejQuery": false,
-                "ClosesBrowser": false,
-                "AjaxTimeout": 0,
-                "Pause": 0,
-                "WaitOnElementsTimeout": 30000,
-                "SearchByImageFirst": 0,
-                "UseStepWaitOnElementsTimout": false,
-                "WaitOnElements": true,
-                "RunsAgainstVersion": "",
-                "Constraints": {
-                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                  "__value": {
-                    "ConstraintValues": {}
-                  }
-                },
-                "Elements": {
-                  "textTarget": {
-                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                    "__value": {
-                      "Name": "textTarget",
-                      "Region": null,
-                      "Page": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                        "__value": {
-                          "Path": "https://amiqaserver.com/mobile//templates/main_menu/users/users.aspx",
-                          "Query": "?MainTab=5",
-                          "BaseUrl": "",
-                          "EquivalentUrls": [],
-                          "Fragment": "",
-                          "Title": "Users",
-                          "CompareMode": 2,
-                          "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "Users"
-                        }
-                      },
-                      "Frame": null,
-                      "FindExpression": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
-                        "__value": {
-                          "uniqueKey": "daO9Eg/KtUZyEoymM3mE+6eCRZM=",
-                          "NodeKind": 4,
-                          "TechnologyType": 1,
-                          "Name": "SecondaryEmailText",
-                          "FindExpressions": [
-                            {
-                              "Key": 1,
-                              "Value": {
-                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                "__value": {
-                                  "Clauses": [
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "id=SecondaryEmail"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "tagname=input"
-                                      }
-                                    }
-                                  ],
-                                  "Constraints": [],
-                                  "ChainStops": []
-                                }
-                              }
-                            }
-                          ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[2]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/div[4]/div[3]/div[1]/div[2]/div[1]/div[1]/div[9]/div[1]/input[1]",
-                          "ImageSearchClauses": [
-                            {
-                              "__type": "ArtOfTest.Common.ImageSearchClause",
-                              "__value": {
-                                "Resolution": "2560, 1440",
-                                "BroweserType": 2,
-                                "Image": "14E214E41754F209A2046DA2127140A029AD8FA024A588C13F94990DC460BE5B",
-                                "Index": 0,
-                                "MatchThreshold": 90,
-                                "OsVersion": "10.0.19041.0",
-                                "ScreenScale": 1.0,
-                                "ScrollOnImageSearch": null
-                              }
-                            }
-                          ],
-                          "DataBindingExpressions": {}
-                        }
-                      },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputText",
-                      "IsIndependent": false,
-                      "DomStateKey": "",
-                      "TechnologyType": 1,
-                      "Version": 200
-                    }
-                  }
-                },
-                "StepType": 4,
-                "LogMessageOnFailure": "",
-                "EditorType": "",
-                "DataBindingExpressions": {},
-                "_canEncrypt": false,
-                "_cipher": null
-              }
-            },
-            "Enabled": true,
-            "Order": 13,
-            "Id": "",
-            "StepState": 0,
-            "ContinueOnFailure": false,
-            "StepImageKey": "05.04 Usersovdrvqqq.pqe",
-            "QcId": 0,
-            "QcVersionStamp": 0,
-            "Version": 200
-          }
-        },
-        {
-          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-          "__value": {
-            "Runtime ID": "a99947de-20dc-4656-8efd-1744f7c60f11",
-            "Description": "Click 'SaveSpan'",
-            "CustomDescription": null,
-            "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
-              "__value": {
-                "SimulateRealClick": true,
-                "ScrollToVisibleType": 2,
-                "UsejQuery": false,
-                "ClosesBrowser": false,
-                "AjaxTimeout": 0,
-                "Pause": 0,
-                "WaitOnElementsTimeout": 30000,
-                "SearchByImageFirst": 0,
-                "UseStepWaitOnElementsTimout": false,
-                "WaitOnElements": true,
-                "RunsAgainstVersion": "",
-                "Constraints": {
-                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                  "__value": {
-                    "ConstraintValues": {}
-                  }
-                },
-                "Elements": {
-                  "target": {
-                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                    "__value": {
-                      "Name": "target",
-                      "Region": null,
-                      "Page": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
-                        "__value": {
-                          "Path": "https://amiqaserver.com/mobile//templates/main_menu/users/users.aspx",
-                          "Query": "?MainTab=5",
-                          "BaseUrl": "",
-                          "EquivalentUrls": [],
-                          "Fragment": "",
-                          "Title": "Users",
-                          "CompareMode": 2,
-                          "AlwaysUseTitleInCompare": false,
-                          "FriendlyName": "Users"
-                        }
-                      },
-                      "Frame": null,
-                      "FindExpression": {
-                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
-                        "__value": {
-                          "uniqueKey": "bPTB1cs6U+eW3tKtSTaC0y+OdsM=",
-                          "NodeKind": 4,
-                          "TechnologyType": 1,
-                          "Name": "SaveSpan",
-                          "FindExpressions": [
-                            {
-                              "Key": 1,
-                              "Value": {
-                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
-                                "__value": {
-                                  "Clauses": [
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "TextContent=Save"
-                                      }
-                                    },
-                                    {
-                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
-                                      "__value": {
-                                        "Clause": "tagname=span"
-                                      }
-                                    }
-                                  ],
-                                  "Constraints": [],
-                                  "ChainStops": []
-                                }
-                              }
-                            }
-                          ],
-                          "BackupSearchClause": "/html[1]/body[1]/div[2]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/div[3]/div[1]/button[2]/span[1]",
-                          "ImageSearchClauses": [
-                            {
-                              "__type": "ArtOfTest.Common.ImageSearchClause",
-                              "__value": {
-                                "Resolution": "2560, 1440",
-                                "BroweserType": 2,
-                                "Image": "2E646C218228083FC6C80C882DAED0BE9E31CC6FA052A25E5F003279E25A5FE2",
-                                "Index": 0,
-                                "MatchThreshold": 90,
-                                "OsVersion": "10.0.19041.0",
-                                "ScreenScale": 1.0,
-                                "ScrollOnImageSearch": null
-                              }
-                            }
-                          ],
-                          "DataBindingExpressions": {}
-                        }
-                      },
-                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSpan",
-                      "IsIndependent": false,
-                      "DomStateKey": "",
-                      "TechnologyType": 1,
-                      "Version": 200
-                    }
-                  }
-                },
-                "StepType": 4,
-                "LogMessageOnFailure": "",
-                "EditorType": "",
-                "DataBindingExpressions": {}
-              }
-            },
-            "Enabled": true,
-            "Order": 14,
-            "Id": "",
-            "StepState": 0,
-            "ContinueOnFailure": false,
-            "StepImageKey": "05.04 Usersqaoyptnu.ptw",
-            "QcId": 0,
-            "QcVersionStamp": 0,
-            "Version": 200
-          }
-        },
-        {
-          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-          "__value": {
-            "Runtime ID": "3c8e85dc-9d13-40e2-aa1c-585c86fd2d68",
-            "Description": "Wait for element 'x5425ListItem' 'is' visible.",
-            "CustomDescription": null,
-            "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.VisibleVerificationDescriptor",
-              "__value": {
-                "IsVisible": true,
-                "DataBindVariableName": null,
-                "Timeout": 30000,
-                "CheckInterval": 500,
-                "EnsureStateIsCurrent": false,
-                "Pause": 0,
-                "WaitOnElementsTimeout": 30000,
-                "SearchByImageFirst": 0,
-                "UseStepWaitOnElementsTimout": false,
-                "WaitOnElements": true,
-                "RunsAgainstVersion": "",
-                "Constraints": {
-                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                  "__value": {
-                    "ConstraintValues": {}
-                  }
-                },
-                "Elements": {
-                  "verifyTarget": {
-                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
-                    "__value": {
-                      "Name": "verifyTarget",
                       "Region": null,
                       "Page": {
                         "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
@@ -1878,7 +811,7 @@
                               "__value": {
                                 "Resolution": "2560, 1440",
                                 "BroweserType": 2,
-                                "Image": "8008A9AAAFEF0152638F1695BE6286C632BCC932D1894A95B02D0E302AEAFAFD",
+                                "Image": "DAC4A6DB35C8C216D116004174F6C9B3E2E1DD22FB159643D0C03E573A928EE3",
                                 "Index": 1,
                                 "MatchThreshold": 90,
                                 "OsVersion": "10.0.19041.0",
@@ -1905,11 +838,507 @@
               }
             },
             "Enabled": true,
-            "Order": 15,
+            "Order": 7,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "05.04.01 User - Create1j4mxlcd.w0w",
+            "StepImageKey": "05.04.04 User - Deletejzen4yqf.al4",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "c8f1ac48-fb7b-4a93-846d-997f53495d58",
+            "Description": "Click 'x5425ListItem'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+              "__value": {
+                "SimulateRealClick": true,
+                "ScrollToVisibleType": 2,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "SearchByImageFirst": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://amiqaserver.com/mobile//templates/main_menu/users/users.aspx",
+                          "Query": "?MainTab=5",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Users",
+                          "CompareMode": 2,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "Users"
+                        }
+                      },
+                      "Frame": null,
+                      "FindExpression": {
+                        "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "wnt4qH6Z6xTkqA6W8CylVboy4lY=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "x5425ListItem",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=li"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "TextContent=A.QA.User.2"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/div[2]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/div[4]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]",
+                          "ImageSearchClauses": [
+                            {
+                              "__type": "ArtOfTest.Common.ImageSearchClause",
+                              "__value": {
+                                "Resolution": "2560, 1440",
+                                "BroweserType": 2,
+                                "Image": "DAC4A6DB35C8C216D116004174F6C9B3E2E1DD22FB159643D0C03E573A928EE3",
+                                "Index": 1,
+                                "MatchThreshold": 90,
+                                "OsVersion": "10.0.19041.0",
+                                "ScreenScale": 1.0,
+                                "ScrollOnImageSearch": null
+                              }
+                            }
+                          ],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlControl",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 8,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "05.04.04 User - Deleten11ux230.g10",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "d31b06ab-a4c2-4846-a9f6-2d4ddd9989bf",
+            "Description": "Click 'DeleteSpan'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+              "__value": {
+                "SimulateRealClick": true,
+                "ScrollToVisibleType": 2,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "SearchByImageFirst": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://amiqaserver.com/mobile//templates/main_menu/users/users.aspx",
+                          "Query": "?MainTab=5",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Users",
+                          "CompareMode": 2,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "Users"
+                        }
+                      },
+                      "Frame": null,
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "/Jl8Gdp1ZMd8nD1OQqbEPLhKPAY=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "DeleteSpan",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "TextContent=Delete"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=span"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/div[2]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/div[3]/div[1]/button[3]/span[1]",
+                          "ImageSearchClauses": [
+                            {
+                              "__type": "ArtOfTest.Common.ImageSearchClause",
+                              "__value": {
+                                "Resolution": "2560, 1440",
+                                "BroweserType": 2,
+                                "Image": "B70D3B4212FF68E9CCA5E3BBE6A4894B13A4A6A7B27B418B10A8CC78805228BA",
+                                "Index": 0,
+                                "MatchThreshold": 90,
+                                "OsVersion": "10.0.19041.0",
+                                "ScreenScale": 1.0,
+                                "ScrollOnImageSearch": null
+                              }
+                            }
+                          ],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSpan",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 9,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "05.04.04 User - Delete0mohfaqq.se2",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "af4f5477-b4ea-49dd-902e-06f51ac64937",
+            "Description": "Click 'ContinueButtonTag'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+              "__value": {
+                "SimulateRealClick": true,
+                "ScrollToVisibleType": 2,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "SearchByImageFirst": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://amiqaserver.com/mobile//templates/main_menu/users/users.aspx",
+                          "Query": "?MainTab=5",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Users",
+                          "CompareMode": 2,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "Users"
+                        }
+                      },
+                      "Frame": null,
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "B6pVgL3tCM6SjWs/Sv0rLVpQcrg=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "ContinueButtonTag",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "TextContent=Continue"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=button"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/div[14]/div[3]/div[1]/button[1]",
+                          "ImageSearchClauses": [
+                            {
+                              "__type": "ArtOfTest.Common.ImageSearchClause",
+                              "__value": {
+                                "Resolution": "2560, 1440",
+                                "BroweserType": 2,
+                                "Image": "D0DC71AD00AF448F8FEBEC8356C45CE9AE8949DE4044D06D4087938A466D3FCB",
+                                "Index": 0,
+                                "MatchThreshold": 90,
+                                "OsVersion": "10.0.19041.0",
+                                "ScreenScale": 1.0,
+                                "ScrollOnImageSearch": null
+                              }
+                            }
+                          ],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlButton",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 10,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "05.04.04 User - Deleted1yqzj1f.zh0",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "b9fb547a-f161-43e5-8dd6-955bcee14940",
+            "Description": "Wait for ExistsNot 'x5425ListItem'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ExistsVerificationDescriptor",
+              "__value": {
+                "SearchByImageFirst": 0,
+                "ExistsNot": true,
+                "WaitOnElements": true,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "DataBindVariableName": null,
+                "Timeout": 30000,
+                "CheckInterval": 500,
+                "EnsureStateIsCurrent": false,
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://amiqaserver.com/mobile//templates/main_menu/users/users.aspx",
+                          "Query": "?MainTab=5",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Users",
+                          "CompareMode": 2,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "Users"
+                        }
+                      },
+                      "Frame": null,
+                      "FindExpression": {
+                        "__type": "ArtOfTest.Common.Design.ProjectModel.Elements.FindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "wnt4qH6Z6xTkqA6W8CylVboy4lY=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "x5425ListItem",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=li"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "TextContent=A.QA.User.2"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/div[2]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/form[1]/div[4]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]",
+                          "ImageSearchClauses": [
+                            {
+                              "__type": "ArtOfTest.Common.ImageSearchClause",
+                              "__value": {
+                                "Resolution": "2560, 1440",
+                                "BroweserType": 2,
+                                "Image": "DAC4A6DB35C8C216D116004174F6C9B3E2E1DD22FB159643D0C03E573A928EE3",
+                                "Index": 1,
+                                "MatchThreshold": 90,
+                                "OsVersion": "10.0.19041.0",
+                                "ScreenScale": 1.0,
+                                "ScrollOnImageSearch": null
+                              }
+                            }
+                          ],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlControl",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 1,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 11,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "05.04.04 User - Deletezcceq0nb.nbg",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
@@ -1931,8 +1360,8 @@
     "TestAssemblyPath": "bin",
     "TestClass": "",
     "IsManual": false,
-    "ResourceFilePath": "1 User - New.resx",
-    "ElementImageStoreFilePath": "1 User - New.imgstore",
+    "ResourceFilePath": "02 User - Delete.resx",
+    "ElementImageStoreFilePath": "02 User - Delete.imgstore",
     "HasCodeBehind": false,
     "DataInfo": {
       "__type": "ArtOfTest.Common.Design.Data.DataInfo",
@@ -1962,13 +1391,13 @@
     "QcTestVersionStamp": 0,
     "TestLinks": [],
     "Description": "",
-    "Name": "1 User - New",
+    "Name": "02 User - Delete",
     "Owner": "",
-    "Path": "1 User - New.tstest",
+    "Path": "02 User - Delete.tstest",
     "Priority": 0,
     "TestType": 0,
-    "UniqueId": "b474741a-ef3e-4f06-a23e-7efedb7ac546",
-    "Id": "b474741a-ef3e-4f06-a23e-7efedb7ac546",
+    "UniqueId": "5dba60c7-72d2-4dac-b370-ed9d2124764e",
+    "Id": "5dba60c7-72d2-4dac-b370-ed9d2124764e",
     "ProjectId": "bc12cd8e-d5a5-48d7-9603-5f5889d19d3d",
     "Version": 200
   }
